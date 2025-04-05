@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Item
+  - Renti
+  - Water
+  - Fire
+  - HikiDasi
+  - nozzle
+  - handle
+  - sofa_1
+  - sofa_2
+  - sofa_3
+  - tv1
+  - tv2
+  - tv3
+  - tv4
+  - Fire_1
+  - Fire_2
+  - Fire_3
+  - Flame
+  - Flame2
+  - Flame3
+  - Cleaner
+  - Yogore0
+  - Yogore1
+  - Yogore2
+  - Yogore3
+  - Yogore4
+  - Yogore5
+  - Yogore6
+  - Yogore7
+  - Yogore8
+  - Yogore9
+  - Yogore10
+  - Yogore11
+  - Yogore12
+  - schutzstaffel_b
+  - schutzstaffel_a
+  - wehrmacht_c
+  - wehrmacht_b
+  - wehrmacht_a
+  - heitaic
+  - HeitaiCap
+  - Hint
+  - Quad
+  - button
+  - player
+  - father
+  - goal
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
